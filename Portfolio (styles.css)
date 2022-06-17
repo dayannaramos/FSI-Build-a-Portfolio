@@ -1,0 +1,21 @@
+body {
+    background-color: #7F867B;
+  }
+  h1 {
+    color: #AF9F8C;
+  }
+  h2 {
+    color: #C7C7BB;
+  }
+  h3 {
+    color: #D4C8BE;
+  }
+  .main-section {
+    color: #E3E4E0
+  }
+  ul li {
+    color: white;
+  }
+  p {
+    color: #E3E4E0
+  }
